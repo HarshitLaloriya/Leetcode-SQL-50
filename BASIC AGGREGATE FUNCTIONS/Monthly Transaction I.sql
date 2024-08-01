@@ -18,6 +18,7 @@ INSERT INTO transactions VALUES
 SELECT * FROM Transactions;
 
 
+# -->Solution
 
 SELECT
     TO_CHAR(trans_date, 'YYYY-MM') AS month,
@@ -38,15 +39,33 @@ ORDER BY
 
 
 
-SELECT 
-    TO_CHAR(trans_date, 'YYYY-MM'), 
-    country,
-    COUNT()
-FROM
-    Transactions
-GROUP BY
-    TO_CHAR(trans_date, 'YYYY-MM'),
-    country
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
