@@ -1,5 +1,7 @@
 # Leetcode-SQL-50 🗄️
 Welcome to the Leetcode-SQL-50 repository! This repository contains solutions to 50 SQL problems from Leetcode, carefully categorized based on different SQL concepts. It's designed as a resource for anyone looking to improve their SQL skills, whether you're a beginner or looking to refine your existing knowledge.
+![Leetcode SQL 50](https://github.com/user-attachments/assets/7aeafe8f-5b52-4599-b0c6-d30380c26f88)
+
 
 # 🚀 Project Overview
 This repository is divided into several categories, each covering specific SQL concepts:
@@ -28,7 +30,7 @@ The repository is organized as follows:
 <br><br>
 📦 Leetcode-SQL-50<br>
  ┣ 📂 ADVANCE SELECT AND JOINS<br>
- ┣ 📂 Advanced String Functions / Regex / Clause<br>
+ ┣ 📂 ADVANCED STRING FUNCTIONS / REGEX / CLAUSE <br>
  ┣ 📂 BASIC AGGREGATE FUNCTIONS<br>
  ┣ 📂 BASIC JOINS<br>
  ┣ 📂 SELECT<br>
@@ -74,6 +76,13 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 
 # 🙌 Acknowledgments
 Special thanks to LeetCode for providing such great problems to solve. This repository wouldn’t be possible without their resources.
+
+
+![GitHub stars](https://img.shields.io/github/stars/HarshitLaloriya/Leetcode-SQL-50)
+![GitHub forks](https://img.shields.io/github/forks/HarshitLaloriya/Leetcode-SQL-50)
+![SQL](https://img.shields.io/badge/SQL-100%25-green)
+
+
 
 <p align="center">
   <img width="268" alt="symbol" src="https://github.com/HarshitLaloriya/SMS-Classification-Model/assets/153602422/aac7df32-7c7a-46ee-9fcf-84767bc0d029">
